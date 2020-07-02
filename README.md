@@ -7,7 +7,7 @@ EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES(FGSM)
 
 ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD(BIM & ILCM)
 
-1. On the Robustness of Semantic Segmentation Models to Adversarial Attacks
+1: On the Robustness of Semantic Segmentation Models to Adversarial Attacks
 
 2: Adversarial Examples that Fool both Computer Vision and Time-Limited Humans
 
